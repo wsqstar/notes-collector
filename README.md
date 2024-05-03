@@ -1,8 +1,5 @@
 # How to use? 如何使用？
 
-Certainly! Here's a Markdown formatted usage guide:
-
----
 
 # Usage Guide
 
